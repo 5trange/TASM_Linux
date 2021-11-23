@@ -1,2 +1,6 @@
-# TASM_Linux
-TASM for Linux Machines. 
+# TASM-Linux
+TASM for Linux Machines. <br>
+
+Depends on DOSBOX.<br>
+
+To run: execute ```./launch.sh```
